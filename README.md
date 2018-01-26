@@ -2,7 +2,7 @@
 
 postgreSQL 比较工具
 
-## curl http://ip:8080/rest/init to init db connection 
+   curl http://ip:8080/rest/init to init db connection 
    param : scope=db,table,view
            lurl=
            lusername=
